@@ -55,19 +55,17 @@ const karenLeon = {
 
 ### 📊 **GitHub Analytics**
 
-![Karen's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dracula&hide_border=true)
+![Karen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingKr3nza&show_icons=true&theme=dracula&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dracula&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ingKr3nza&layout=compact&theme=dracula&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=dracula&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ingKr3nza&theme=dracula&hide_border=true)
 
 ---
 
 ### 🌸 **Conectemos**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white&color=FF69B4)](https://linkedin.com/in/tu-perfil)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white&color=FF69B4)](https://tu-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white&color=FF69B4)](mailto:tu@email.com)
+[![Email](https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white&color=FF69B4)](mailto:kylv.mon@gmail.com)
 
 ---
 
