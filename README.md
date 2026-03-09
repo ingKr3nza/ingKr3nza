@@ -53,16 +53,6 @@ const karenLeon = {
 
 ---
 
-### 📊 **GitHub Analytics**
-
-![Karen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingKr3nza&show_icons=true&theme=dracula&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ingKr3nza&layout=compact&theme=dracula&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ingKr3nza&theme=dracula&hide_border=true)
-
----
-
 ### 🌸 **Conectemos**
 
 [![Email](https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white&color=FF69B4)](mailto:kylv.mon@gmail.com)
