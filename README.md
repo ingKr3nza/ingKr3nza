@@ -98,5 +98,3 @@ void loop() {
 💕 *Let's build something amazing together!* 💕
 
 ---
-
-¿Qué tal así? Le puse un toque más femenino con los colores rosados y emojis de corazón, manteniendo la esencia técnica. ¿Quieres que ajuste algo más? 😊
